@@ -1,5 +1,5 @@
 Fill configuration.conf
-1st string auth in base64 management/karin:passwd
+1st string auth in base64 tenant/login:passwd
 2nd string application id
 
 
